@@ -16,6 +16,10 @@ alu_min=edades.index(ed_min)+1
 
 print(f"el mayor es el alumno {alu_max} que tiene {ed_max} años")
 print(f"el menor es el alumno {alu_min} que tiene {ed_min} años")
+print("--------------------------------")
+print("El profesor es el alumno {alu_max}")
+print("Y su asistente es el alumno {alu_min}")
+print("--------------------------------")
 
 
 
